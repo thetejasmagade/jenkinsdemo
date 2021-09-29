@@ -11,3 +11,4 @@ scenarios:
     - label: jenkinsdemo
       method: GET
       url: https://45.249.41.204/
+rge
